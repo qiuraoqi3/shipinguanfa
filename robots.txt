@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qiuraoqi3.github.io/shipinguanfa/sitemap.xml
